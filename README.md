@@ -1,6 +1,6 @@
 Here’s a good **README.md** for your portfolio repository:
 
-```markdown
+---
 # 🌐 Personal Portfolio - VishvaJeet
 
 This is a simple and clean **personal portfolio website** built to showcase my skills, projects, and interests in **Full Stack Development, AI/ML, and Cloud Computing**.  
@@ -32,7 +32,6 @@ This is a simple and clean **personal portfolio website** built to showcase my s
 ---
 
 ## 📂 Project Structure
-```
 
 portfolio1/
 │── index.html      # Main HTML file
@@ -41,7 +40,6 @@ portfolio1/
 │── assets/         # Images, icons, and other resources
 │── README.md       # Project documentation
 
-````
 
 ---
 
