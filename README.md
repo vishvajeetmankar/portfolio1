@@ -27,7 +27,7 @@ This is a simple and clean **personal portfolio website** built to showcase my s
 ---
 
 ## 📸 Preview
-![Portfolio Preview](https://raw.githubusercontent.com/vishvajeetmankar/portfolio1/main/preview.png)
+![Portfolio Preview](https://raw.githubusercontent.com/vishvajeetmankar/portfolio1/main/preview.png.png)
 
 ---
 
